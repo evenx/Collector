@@ -1,0 +1,10 @@
+{
+       "ToUserName":"23r23rdsfFSD",
+       "FromUserName":"fsdafljre",
+       "CreateTime":3333333333,
+       "MsgType":"event",
+       "Event":"LOCATION",
+       "Latitude":2323,
+       "Longitude":2323,
+       "Precision":2323
+ }
